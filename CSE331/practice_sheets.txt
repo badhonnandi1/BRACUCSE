@@ -1,0 +1,7 @@
+Practice Sheet :
+(DFA NFA):  https://tinyurl.com/dfapps1
+(RegEx) :  https://tinyurl.com/regex331b
+(DFA -> RE): https://tinyurl.com/dfatore
+(CFG): https://tinyurl.com/CFGM1PP
+(PDA): https://tinyurl.com/PDAP1
+(Pumping Lemma): https://tinyurl.com/pml111

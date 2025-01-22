@@ -1,0 +1,11 @@
+
+My Notes:
+   
+DFA : https://tinyurl.com/DFA12H2
+RegEx: https://tinyurl.com/REHNOTES
+REtoNFA: https://tinyurl.com/retonfahnote
+NFAtoDFA: https://tinyurl.com/NFAtoDFA1
+DFAtoRE: https://tinyurl.com/DFAtoRE1
+Pumping Lemma: https://tinyurl.com/pumpinglemmah
+CFG: https://tinyurl.com/cfghnotes
+PDA : https://tinyurl.com/PDAHNOTES
